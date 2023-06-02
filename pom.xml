@@ -5,7 +5,7 @@
 
     <groupId>com.danklco</groupId>
     <artifactId>mvn-semantic-release-issue-demo</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     
     <name>mvn-semantic-release-issue-demo</name>
     <description>A simple mvn-semantic-release-issue-demo.</description>
