@@ -21,7 +21,7 @@
         <repository>
             <id>file</id>
             <name>Filesystem, for simplicity</name>
-            <url>file://${java. io. tmpdir }/mvn-semantic-release-issue-demo</url>
+            <url>file://${java.io.tmpdir}/mvn-semantic-release-issue-demo</url>
         </repository>
     </distributionManagement>
 
