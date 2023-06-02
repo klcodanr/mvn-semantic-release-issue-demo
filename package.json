@@ -1,0 +1,9 @@
+{
+  "name": "mvn-semantic-release-issue-demo",
+  "version": "0.1.0",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@terrestris/maven-semantic-release": "github:klcodanr/maven-semantic-release",
+    "semantic-release": "^21.0.2"
+  }
+}
